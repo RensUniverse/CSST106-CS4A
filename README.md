@@ -1,1 +1,1 @@
-# CSST106-CS4A
+# CSST 106	Perception and Computer Vision
